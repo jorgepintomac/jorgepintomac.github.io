@@ -1,8 +1,8 @@
-Origin: MacUnix's repo
-Label: MacUnix's repo
+Origin: jorgepintomac's repo
+Label: jorgepintomac's repo
 Suite: stable
 Version: 1.0
-Codename: MacUnixrepo
+Codename: jorgepintomacrepo
 Architectures: iphoneos-arm
 Components: main
-Description: MacUnix's Cydia Repository
+Description: jorgepintomac's Cydia Repository
