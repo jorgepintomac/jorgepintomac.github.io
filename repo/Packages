@@ -6,9 +6,7 @@ Depends: mobilesubstrate, preferenceloader
 Provides: com.popcorntime.tv
 Architecture: iphoneos-arm
 Filename: Files/PopCorntime/org.jorgepintomac.popcorntime_3.2.16_iphoneos-arm.deb
-Size: 40185
-Installed-Size: 40.2
-MD5sum:
+Size: 40185168
 Description: Popcorntime for old iOS versions
 Name: PopCornTimeTV
 Author: jorgepintomac <jorgepintomac@gmail.com>
