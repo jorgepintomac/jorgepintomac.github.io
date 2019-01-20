@@ -1,3 +1,19 @@
+Package: org.jorgepintomac.popcorntime
+Version: 3.2.16
+Section: Tweaks
+Maintainer: jorgepintomac <jorgepintomac@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Provides: com.popcorntime.tv
+Architecture: iphoneos-arm
+Filename: Files/PopCorntime/org.jorgepintomac.popcorntime_3.2.16_iphoneos-arm.deb
+Size: 40185
+Installed-Size: 40.2
+MD5sum:
+Description: Popcorntime for old iOS versions
+Name: PopCornTimeTV
+Author: jorgepintomac <jorgepintomac@gmail.com>
+Depiction: http://jorgepintomac.github.io/repo/Files/PopCorntime/index.html
+
 Package: org.h6nry.bytafontlegacytm
 Version: 0.0.1-127
 Section: Tweaks
