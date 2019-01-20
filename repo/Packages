@@ -2,14 +2,14 @@ Package: org.jorgepintomac.popcorntime
 Version: 3.2.16
 Section: Tweaks
 Maintainer: jorgepintomac <jorgepintomac@gmail.com>
-Depends: mobilesubstrate, preferenceloader
+Depends: net.angelxwind.appsyncunified(>= 5.8), firmware(>= 9.0)
 Provides: com.popcorntime.tv
 Architecture: iphoneos-arm
 Filename: Files/PopCorntime/org.jorgepintomac.popcorntime_3.2.16_iphoneos-arm.deb
 Size: 
 Installed-Size: 
 MD5sum: f387e1a8f20935dada6c454682c265aa
-Description: Popcorn Time for old iOS versions
+Description: Popcorntime for old iOS versions
 Name: Popcorn Time
 Author: jorgepintomac <jorgepintomac@gmail.com>
 Depiction: http://jorgepintomac.github.io/repo/Files/PopCorntime/index.html
