@@ -6,7 +6,7 @@ Depends: net.angelxwind.appsyncunified(>= 5.8), firmware(>= 9.0)
 Provides: com.popcorntime.tv
 Architecture: iphoneos-arm
 Filename: Files/PopCorntime/org.jorgepintomac.popcorntime_3.2.16_iphoneos-arm.deb
-Size: 
+Size: 38.3 MB
 Installed-Size: 
 MD5sum: f387e1a8f20935dada6c454682c265aa
 Description: Popcorntime for old iOS versions
