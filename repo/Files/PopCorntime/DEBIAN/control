@@ -1,0 +1,7 @@
+Package: Popcorntime.app
+Version: 3.2.16
+Name: PopCornTime
+Section: Entertaiment
+Description: Watch Movies and series
+Architecture: iphoneos-arm
+Author: jorgepintomac
