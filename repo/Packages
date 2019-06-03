@@ -17,11 +17,11 @@ Package: science.xnu.undecimus_3.2.1
 Version: 3.2.1
 Section: Tweaks
 Maintainer: pwd20wnd
-Depends: mobilesubstrate, preferenceloader
-Provides: com.bytafont.bytafonttm
+Depends: 
+Provides: 
 Architecture: iphoneos-arm
 Filename: Files/Unc0ver/science.xnu.undecimus_3.2.1.deb
-Size: 6040
+Size: 40700
 Installed-Size: 40
 MD5sum: 25e47a5188a225a47b089587520dfe2a
 Description: To Jailbreak iPhone 5SE 12.x
