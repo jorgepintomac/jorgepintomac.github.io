@@ -1,6 +1,6 @@
-Package: UnC0ver.app
+Package: science.xnu.undecimus_3.2.1.deb
 Version: 3.2.1
-Name: Unc0ver
+Name: science.xnu.undecimus_3.2.1.deb
 Section: Jailbreak
 Description: Jailbreak iPhone
 Architecture: iphoneos-arm
