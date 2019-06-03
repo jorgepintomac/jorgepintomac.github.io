@@ -61,20 +61,7 @@ var template = '\
 	<a href="/repo/">Cydia repo</a><br><br> \
 	<a href="/tutorial-cydia-repo.html">Tutorial: How to host your own Cydia repo</a><br><br> \
 	<a href="http://github.com/jorgepintomac/" target="_blank">Github</a><br><br> \
-</nav> \
-<aside class="tp-dync"> \
-	<h4>News</h4> \
-	--- This webpage uses HTML5 now. ---<br> \
-	--- Noticed how the website colors change during the day? ---<br> \
-	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
-\
-	<h4>Clicks</h4><iframe src="/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
-</aside> \
-\
-<section class="tp-dync2"><br> \
-	' + content + ' \
-</section> \
- \
+</nav> 
 ';
 document.documentElement.innerHTML = template;
 
