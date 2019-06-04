@@ -14,10 +14,12 @@ Name: PopcornTime
 Author: jorgepintomac <jorgepintomac@gmail.com>
 Depiction: https://jorgepintomac.github.io/repo/Files/PopCorntime/index.html
 
-Package: org.jorgepintomac.unc0ver_3.2.1_iphoneos-arm
+Package: org.jorgepintomac.unc0ver
 Version: 3.2.1
 Section: Tweaks
 Maintainer: pwd20wnd
+Depends:
+Provides:
 Architecture: iphoneos-arm
 Filename: Files/Unc0ver/org.jorgepintomac.unc0ver_3.2.1_iphoneos-arm.deb
 Size: 40658042
