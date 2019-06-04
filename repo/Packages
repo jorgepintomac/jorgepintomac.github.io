@@ -18,8 +18,7 @@ Package: org.jorgepintomac.unc0ver
 Version: 3.2.1
 Section: Tweaks
 Maintainer: pwd20wnd
-Depends:
-Provides:
+Provides: com.unc0ver.org
 Architecture: iphoneos-arm
 Filename: Files/Unc0ver/org.jorgepintomac.unc0ver_3.2.1_iphoneos-arm.deb
 Size: 40658042
