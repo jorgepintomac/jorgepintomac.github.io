@@ -41,21 +41,16 @@ var template = '\
 <head> \
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/> \
 	<meta charset="UTF-8"> \
-	<link rel="shortcut icon" href="/Files/H6nry-Icon.png"> \
+	<link rel="shortcut icon" href="/Files/jorgepintomac-Icon.png"> \
 	<meta name="robots" content="index,follow"> \
 	<meta http-equiv="cache-control" content="Public|Private"> \
 	<title>'+title+'</title> \
 	<link rel="stylesheet" href="/styles.css"></style> \
 </head> \
 <body class="tp-dync2"> \
-\
 <header class="tp-dync" align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
 	<h1>JorgePintoMac\'s Github page</h1> \
-	"A place to find Freedom" \
-</header> \
- \
-\
- \
+	"A place to find Freedom" \</header>
 <nav class="tp-dync"><br> \
 	<a href="/index.html">Home</a><br><br> \
 	<a href="/repo/">Cydia repo</a><br><br> \

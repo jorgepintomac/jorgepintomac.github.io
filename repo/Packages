@@ -7,22 +7,23 @@ Provides: com.popcorntime.tv
 Architecture: iphoneos-arm
 Filename: Files/PopCorntime/org.jorgepintomac.popcorntime_3.2.16_iphoneos-arm.deb
 Size: 40185168
+Installed-Size: 41000000
 MD5sum: f387e1a8f20935dada6c454682c265aa
 Description: Popcorntime for old iOS versions
-Name: Popcorn Time
+Name: PopcornTime
 Author: jorgepintomac <jorgepintomac@gmail.com>
-Depiction: http://jorgepintomac.github.io/repo/Files/PopCorntime/index.html
+Depiction: https://jorgepintomac.github.io/repo/Files/PopCorntime/index.html
 
-Package: science.xnu.undecimus_3.2.1
+Package: org.jorgepintomac.unc0ver_3.2.1_iphoneos-arm
 Version: 3.2.1
 Section: Tweaks
 Maintainer: pwd20wnd
 Architecture: iphoneos-arm
-Filename: Files/Unc0ver/science.xnu.undecimus_3.2.1.deb
+Filename: Files/org.jorgepintomac.unc0ver_3.2.1_iphoneos-arm.deb
 Size: 40658042
-Installed-Size: 41000
+Installed-Size: 41000000
 MD5sum: 25e47a5188a225a47b089587520dfe2a
 Description: To Jailbreak iPhone 5SE 12.x
-Name: Unc0ver
+Name: Unc0ver-3.2.1
 Author: pwd20wnd
-Depiction: http://jorgepintomac.github.io/repo/Files/Unc0ver/index.html
+Depiction: https://jorgepintomac.github.io/repo/Files/Unc0ver/index.html
