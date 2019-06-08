@@ -8,12 +8,12 @@ var template = ' \
 <link rel="shortcut icon" href=""> \
 <meta name="robots" content="index,follow"> \
 <!--<meta http-equiv="cache-control" content="no-cache">--> \
-<title>H6nry\'s Cydia repo</title> \
+<title>jorgepintomac\'s Cydia repo</title> \
 </head> \
 <body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
 <div align="center" style="background-color:#77ffff"> \
-<h1>H6nry\'s Repo</h1> \
+<h1>jorgepintomac\'s Repo</h1> \
 </div> \
  \
 <div align="center" style="background-color:#FFFFFF;"> \
